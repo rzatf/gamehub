@@ -1,0 +1,54 @@
+
+
+===== prd_p04.png =====
+[  84, 105] 10/13/26, 12:57 PM
+[  85,1220] Web Development - Program Fast Track
+[3321, 102] https://portal-scrum-kappa.vercel.app/prd.php
+[3319,2473] 4/6
+
+
+===== prd_p05.png =====
+[  85, 106] 10/13/26, 12:57 PM
+[  86,1223] Web Development - Program Fast Track
+[2827, 408] CATATAN ARSITEKTUR & KONTRAK API (FE-BE SYNC)
+[2982, 366] Arsitektur
+[2982, 618] Sistem
+[3053, 365] Aplikasi
+[3052, 851] arsitektur
+[3051,1098] Backend-Mediated API : Frontend
+[3053,1846] tidak mengakses
+[3051,2197] API
+[3054, 568] menggunkana
+[3117, 361] Melainkan
+[3119, 590] Backend berfungsi sebagai perantara
+[3119,1404] untuk
+[3119,1567] mengambil
+[3118,1797] data dari ApI external
+[3321, 104] https://portal-scrum-kappa.vercel.app/prd.php
+[3319,2474] 5/6
+
+
+===== prd_p06.png =====
+[  84, 107] 10/13/26, 12:57 PM
+[  87,1223] Web Development - Program Fast Track
+[ 203, 359] Alur 
+[ 274, 363] Laravel BE Fetch data
+[ 276, 871] game
+[ 274, 958]  dari STEAM/EpicGames
+[ 275,1470] aee -- os p edusp --
+[ 274,2245] RE
+[ 410, 364] Kontrak API 
+[ 481, 362] Frontend berkomunikasi dengan Backend melalui
+[ 479,1431] REST
+[ 479,1543] API
+[ 480,1640] Laravel
+[ 481,1824] menggunakan format
+[ 479,2242] JS
+[ 778, 383] CATATAN &MASUKANDARIGURUTINSTRUKTUR
+[ 857, 382] Belum ada catatan masukan dari instruktur.
+[1160, 508] Disusun Oleh Perwakilan Siswa:
+[1161,1554] Disetujui Oleh Guru / Instruktur:
+[1386, 624] (Ketua Kelompok)
+[1386,1648] (Guru Pendamping)
+[3322, 104] https://portal-scrum-kappa.vercel.app/prd.php
+[3319,2474] 6/6

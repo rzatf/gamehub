@@ -1,0 +1,524 @@
+{
+ "battlefield-6": {
+  "appid": 2807960,
+  "name": "Battlefield™ 6",
+  "release_date": "10 Okt 2025",
+  "developers": [
+   "Battlefield Studios"
+  ],
+  "publishers": [
+   "Electronic Arts"
+  ],
+  "genres": [
+   "Aksi"
+  ],
+  "short_description": "The ultimate all-out warfare experience. In a war of tanks, fighter jets, and massive combat arsenals, your squad is the deadliest weapon.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Prosesor:</strong> Intel Core i5-8400, AMD Ryzen 5 2600<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> Nvidia RTX 2060, AMD Radeon RX 5600 XT 6GB, Intel Arc A380<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Penyimpanan:</strong> 55 GB ruang tersedia<br></li><li><strong>Kartu suara:</strong> No Recommendation<br></li><li><strong>Mendukung VR:</strong> Not Supported<br></li><li><strong>Catatan Tambahan:</strong> TPM 2.0 Enabled UEFI SECURE BOOT Enabled HVCI Capable VBS Capable</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 11<br></li><li><strong>Prosesor:</strong> Intel Core i7-10700, AMD Ryzen 7 3700X<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> Nvidia RTX 3060Ti, AMD Radeon RX 6700-XT, Intel Arc B580<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Penyimpanan:</strong> 80 GB ruang tersedia<br></li><li><strong>Kartu suara:</strong> No Recommendation<br></li><li><strong>Mendukung VR:</strong> Not Supported<br></li><li><strong>Catatan Tambahan:</strong> TPM 2.0 Enabled UEFI SECURE BOOT Enabled HVCI Capable VBS Capable</li></ul>"
+  },
+  "price_initial": 79900000,
+  "price_final": 79900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "detroit-become-human": {
+  "appid": 1222140,
+  "name": "Detroit: Become Human",
+  "release_date": "18 Jun 2020",
+  "developers": [
+   "Quantic Dream"
+  ],
+  "publishers": [
+   "Quantic Dream"
+  ],
+  "genres": [
+   "Aksi",
+   "Petualangan"
+  ],
+  "short_description": "Detroit: Become Human puts the destiny of both mankind and androids in your hands, taking you to a near future where machines have become more intelligent than humans. Every choice you make affects the outcome of the game, with one of the most intricately branching narratives ever created.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 (64 bit)<br></li><li><strong>Prosesor:</strong> Intel Core i5-2300 @ 2.8 GHz or AMD Ryzen 3 1200 @ 3.1GHz or AMD FX-8350 @ 4.2GHz<br></li><li><strong>Memori:</strong> 8 GB RAM<br></li><li><strong>Grafis:</strong> Nvidia GeForce GTX 780 or AMD HD 7950 with 3GB VRAM minimum (Support of Vulkan 1.1 required)<br></li><li><strong>Penyimpanan:</strong> 55 GB ruang tersedia</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 (64 bit)<br></li><li><strong>Prosesor:</strong> Intel Core i5-6600 @ 3.3 GHz or AMD Ryzen 3 1300 X @ 3.4 GHz<br></li><li><strong>Memori:</strong> 12 GB RAM<br></li><li><strong>Grafis:</strong> Nvidia GeForce GTX 1060 or AMD Radeon RX 580 with 4GB VRAM minimum (Support of Vulkan 1.1 required)<br></li><li><strong>Penyimpanan:</strong> 55 GB ruang tersedia</li></ul>"
+  },
+  "price_initial": 39900000,
+  "price_final": 39900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "sekiro-shadows-die-twice": {
+  "appid": 814380,
+  "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+  "release_date": "21 Mar 2019",
+  "developers": [
+   "FromSoftware, Inc."
+  ],
+  "publishers": [
+   "Activision (Excluding Japan and Asia)",
+   "FromSoftware, Inc. (Japan)",
+   "方块游戏 (Asia)"
+  ],
+  "genres": [
+   "Aksi",
+   "Petualangan"
+  ],
+  "short_description": "Game of the Year - The Game Awards 2019 Best Action Game of 2019 - IGN Carve your own clever path to vengeance in the award winning adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series. Take Revenge. Restore Your Honor. Kill Ingeniously.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit<br></li><li><strong>Prosesor:</strong> Intel Core i3-2100 | AMD FX-6300<br></li><li><strong>Memori:</strong> 4 GB RAM<br></li><li><strong>Grafis:</strong> NVIDIA GeForce GTX 760 | AMD Radeon HD 7950<br></li><li><strong>DirectX:</strong> Versi 11<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Penyimpanan:</strong> 25 GB ruang tersedia<br></li><li><strong>Kartu suara:</strong> DirectX 11 Compatible</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit<br></li><li><strong>Prosesor:</strong> Intel Core i5-2500K | AMD Ryzen 5 1400<br></li><li><strong>Memori:</strong> 8 GB RAM<br></li><li><strong>Grafis:</strong> NVIDIA GeForce GTX 970 | AMD Radeon RX 570<br></li><li><strong>DirectX:</strong> Versi 11<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Penyimpanan:</strong> 25 GB ruang tersedia<br></li><li><strong>Kartu suara:</strong> DirectX 11 Compatible</li></ul>"
+  },
+  "price_initial": 89100000,
+  "price_final": 44550000,
+  "discount": 50,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "red-dead-redemption-2": {
+  "appid": 1174180,
+  "name": "Red Dead Redemption 2",
+  "release_date": "5 Des 2019",
+  "developers": [
+   "Rockstar Games"
+  ],
+  "publishers": [
+   "Rockstar Games"
+  ],
+  "genres": [
+   "Aksi",
+   "Petualangan"
+  ],
+  "short_description": "Arthur Morgan dan Van der Linde Gang adalah pelanggar hukum yang kabur. Diikuti agen federal dan pemburu hadiah, mereka harus merampok, mencuri, dan bertarung di sepanjang jalan daratan liar guna bertahan hidup.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 - 64-bit<br></li><li><strong>Prosesor:</strong> Intel® Core™ i5-2500K / AMD FX-6300<br></li><li><strong>Memori:</strong> 8 GB RAM<br></li><li><strong>Grafis:</strong> Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Penyimpanan:</strong> 150 GB ruang tersedia<br></li><li><strong>Kartu suara:</strong> Direct X Compatible</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 - 64-bit<br></li><li><strong>Prosesor:</strong> Intel® Core™ i7-4770K / AMD Ryzen 5 1500X<br></li><li><strong>Memori:</strong> 12 GB RAM<br></li><li><strong>Grafis:</strong> Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Penyimpanan:</strong> 150 GB ruang tersedia<br></li><li><strong>Kartu suara:</strong> Direct X Compatible</li></ul>"
+  },
+  "price_initial": 87900000,
+  "price_final": 21975000,
+  "discount": 75,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "cyberpunk-2077": {
+  "appid": 1091500,
+  "name": "Cyberpunk 2077",
+  "release_date": "9 Des 2020",
+  "developers": [
+   "CD PROJEKT RED"
+  ],
+  "publishers": [
+   "CD PROJEKT RED"
+  ],
+  "genres": [
+   "RPG"
+  ],
+  "short_description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Prosesor:</strong> Core i7-6700 or Ryzen 5 1600<br></li><li><strong>Memori:</strong> 12 GB RAM<br></li><li><strong>Grafis:</strong> GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Penyimpanan:</strong> 70 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> SSD required. Attention: In this game you will encounter a variety of visual effects that may provide seizures or loss of consciousness in a minority of people. If you or someone you know experiences any of the above symptoms while playing, stop and seek medical attention immediately.</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Prosesor:</strong> Core i7-12700 or Ryzen 7 7800X3D<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> GeForce RTX 2060 SUPER or Radeon RX 5700 XT or Arc A770<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Penyimpanan:</strong> 70 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> SSD required.</li></ul>"
+  },
+  "price_initial": 69999900,
+  "price_final": 69999900,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "elden-ring": {
+  "appid": 1245620,
+  "name": "ELDEN RING",
+  "release_date": "24 Feb 2022",
+  "developers": [
+   "FromSoftware, Inc."
+  ],
+  "publishers": [
+   "FromSoftware, Inc.",
+   "Bandai Namco Entertainment"
+  ],
+  "genres": [
+   "Aksi",
+   "RPG"
+  ],
+  "short_description": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Prosesor:</strong> INTEL CORE I5-8400 or AMD RYZEN 3 3300X<br></li><li><strong>Memori:</strong> 12 GB RAM<br></li><li><strong>Grafis:</strong> NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Penyimpanan:</strong> 60 GB ruang tersedia<br></li><li><strong>Kartu suara:</strong> Windows Compatible Audio Device<br></li><li><strong>Catatan Tambahan:</strong> </li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Prosesor:</strong> INTEL CORE I7-8700K or AMD RYZEN 5 3600X<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> NVIDIA GEFORCE GTX 1070 8 GB or AMD RADEON RX VEGA 56 8 GB<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Penyimpanan:</strong> 60 GB ruang tersedia<br></li><li><strong>Kartu suara:</strong> Windows Compatible Audio Device<br></li><li><strong>Catatan Tambahan:</strong> </li></ul>"
+  },
+  "price_initial": 59900000,
+  "price_final": 59900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "the-witcher-3-wild-hunt": {
+  "appid": 292030,
+  "name": "The Witcher 3: Wild Hunt — Remastered",
+  "release_date": "18 Mei 2015",
+  "developers": [
+   "CD PROJEKT RED"
+  ],
+  "publishers": [
+   "CD PROJEKT RED"
+  ],
+  "genres": [
+   "RPG"
+  ],
+  "short_description": "The Witcher 3: Wild Hunt — Remastered modernizes the acclaimed role-playing game with a range of upgrades and enhancements. Become monster slayer for hire Geralt of Rivia and journey across a dark fantasy open world in an epic quest to find your adopted daughter Ciri.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 11<br></li><li><strong>Prosesor:</strong> Core i5-8400 / Ryzen 5 2600<br></li><li><strong>Memori:</strong> 12 GB RAM<br></li><li><strong>Grafis:</strong> GeForce GTX 1660 / Radeon RX 5500 XT 8GB / Arc A580<br></li><li><strong>Penyimpanan:</strong> 60 SSD GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> VRAM 6 GB</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 11<br></li><li><strong>Prosesor:</strong> Intel Core i7 8700K / AMD Ryzen 5 3600X<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> RTX 2060 Super / AMD Radeon RX 6600 XT / Intel Arc B580<br></li><li><strong>Penyimpanan:</strong> 60 SSD GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> VRAM 8 GB</li></ul>"
+  },
+  "price_initial": 53900000,
+  "price_final": 53900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "god-of-war": {
+  "appid": 1593500,
+  "name": "God of War",
+  "release_date": "14 Jan 2022",
+  "developers": [
+   "Santa Monica Studio",
+   "Jetpack Interactive"
+  ],
+  "publishers": [
+   "PlayStation Publishing LLC"
+  ],
+  "genres": [
+   "Aksi",
+   "Petualangan",
+   "RPG"
+  ],
+  "short_description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Prosesor:</strong> Intel i5-2500k (4 core 3.3 GHz) or AMD Ryzen 3 1200 (4 core 3.1 GHz)<br></li><li><strong>Memori:</strong> 8 GB RAM<br></li><li><strong>Grafis:</strong> NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)<br></li><li><strong>DirectX:</strong> Versi 11<br></li><li><strong>Penyimpanan:</strong> 70 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> DirectX feature level 11_1 required</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Prosesor:</strong> Intel i5-6600k (4 core 3.5 GHz) or AMD Ryzen 5 2400 G (4 core 3.6 GHz)<br></li><li><strong>Memori:</strong> 8 GB RAM<br></li><li><strong>Grafis:</strong> NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)<br></li><li><strong>DirectX:</strong> Versi 11<br></li><li><strong>Penyimpanan:</strong> 70 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> DirectX feature level 11_1 required</li></ul>"
+  },
+  "price_initial": 72900000,
+  "price_final": 72900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "hades-ii": {
+  "appid": 1145350,
+  "name": "Hades II",
+  "release_date": "25 Sep 2025",
+  "developers": [
+   "Supergiant Games"
+  ],
+  "publishers": [
+   "Supergiant Games"
+  ],
+  "genres": [
+   "Aksi",
+   "Indie",
+   "RPG"
+  ],
+  "short_description": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Prosesor:</strong> Dual Core 2.4 GHz<br></li><li><strong>Memori:</strong> 8 GB RAM<br></li><li><strong>Grafis:</strong> GeForce GTX 950, Radeon R7 360, or Intel HD Graphics 630<br></li><li><strong>Penyimpanan:</strong> 11 GB ruang tersedia</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Prosesor:</strong> Quad Core 2.4ghz<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> GeForce RTX 2060, Radeon RX 5600 XT, or Intel Arc A580<br></li><li><strong>Penyimpanan:</strong> 11 GB ruang tersedia</li></ul>"
+  },
+  "price_initial": 24599900,
+  "price_final": 24599900,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "baldurs-gate-3": {
+  "appid": 1086940,
+  "name": "Baldur's Gate 3",
+  "release_date": "3 Agu 2023",
+  "developers": [
+   "Larian Studios"
+  ],
+  "publishers": [
+   "Larian Studios"
+  ],
+  "genres": [
+   "Petualangan",
+   "RPG",
+   "Strategi"
+  ],
+  "short_description": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Prosesor:</strong> Intel I5 4690 / AMD FX 8350 / Snapdragon X Elite<br></li><li><strong>Memori:</strong> 8 GB RAM<br></li><li><strong>Grafis:</strong> Nvidia GTX 970 / RX 480 / Intel Arc A380 / Qualcomm Adreno X1 (4GB+ of VRAM)<br></li><li><strong>DirectX:</strong> Versi 11<br></li><li><strong>Penyimpanan:</strong> 150 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> SSD required</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Prosesor:</strong> Intel i7 8700K / AMD r5 3600<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> Nvidia 2060 Super / RX 5700 XT / Intel Arc A580 (8GB+ of VRAM)<br></li><li><strong>DirectX:</strong> Versi 11<br></li><li><strong>Penyimpanan:</strong> 150 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> SSD required</li></ul>"
+  },
+  "price_initial": 69999900,
+  "price_final": 69999900,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "forza-horizon-5": {
+  "appid": 1551360,
+  "name": "Forza Horizon 5",
+  "release_date": "8 Nov 2021",
+  "developers": [
+   "Playground Games"
+  ],
+  "publishers": [
+   "Xbox Game Studios"
+  ],
+  "genres": [
+   "Aksi",
+   "Petualangan",
+   "Balapan",
+   "Simulasi",
+   "Olahraga"
+  ],
+  "short_description": "Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 version 18362.0 or higher<br></li><li><strong>Prosesor:</strong> Intel i5-4460 or AMD Ryzen 3 1200<br></li><li><strong>Memori:</strong> 8 GB RAM<br></li><li><strong>Grafis:</strong> NVidia GTX 970, AMD RX 470, OR Intel Arc A380<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Penyimpanan:</strong> 110 GB ruang tersedia</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 version 18362.0 or higher<br></li><li><strong>Prosesor:</strong> Intel i5-8400 or AMD Ryzen 5 1500X<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> NVidia GTX 1070, AMD RX 590, OR Intel Arc A750<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Penyimpanan:</strong> 110 GB ruang tersedia</li></ul>"
+  },
+  "price_initial": 69900000,
+  "price_final": 69900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "stardew-valley": {
+  "appid": 413150,
+  "name": "Stardew Valley",
+  "release_date": "26 Feb 2016",
+  "developers": [
+   "ConcernedApe"
+  ],
+  "publishers": [
+   "ConcernedApe"
+  ],
+  "genres": [
+   "Indie",
+   "RPG",
+   "Simulasi"
+  ],
+  "short_description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista or greater<br></li><li><strong>Prosesor:</strong> 2 Ghz<br></li><li><strong>Memori:</strong> 2 GB RAM<br></li><li><strong>Grafis:</strong> 256 mb video memory, shader model 3.0+<br></li><li><strong>DirectX:</strong> Versi 10<br></li><li><strong>Penyimpanan:</strong> 500 MB ruang tersedia</li></ul>"
+  },
+  "price_initial": 11599900,
+  "price_final": 11599900,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "cities-skylines-2": {
+  "appid": 949230,
+  "name": "Cities: Skylines II",
+  "release_date": "24 Okt 2023",
+  "developers": [
+   "Iceflake Studios",
+   "Colossal Order"
+  ],
+  "publishers": [
+   "Paradox Interactive"
+  ],
+  "genres": [
+   "Simulasi"
+  ],
+  "short_description": "Raise a city from the ground up and transform it into a thriving metropolis with the most realistic city builder ever. Push your creativity and problem-solving to build on a scale you've never experienced. With deep simulation and a living economy, this is world-building without limits.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows® 10 Home 64 Bit<br></li><li><strong>Prosesor:</strong> Intel® Core™ i7-6700K | AMD® Ryzen™ 5 2600X<br></li><li><strong>Memori:</strong> 8 GB RAM<br></li><li><strong>Grafis:</strong> Nvidia® GeForce™ GTX 970 (4 GB)  | AMD® Radeon™ RX 480 (8 GB)<br></li><li><strong>Penyimpanan:</strong> 60 GB ruang tersedia</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows® 10 Home 64 Bit | Windows® 11<br></li><li><strong>Prosesor:</strong> Intel® Core™ i5-12600K | AMD® Ryzen™ 7 5800X<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> Nvidia® GeForce™ RTX 3080 (10 GB) | AMD® Radeon™ RX 6800 XT (16 GB)<br></li><li><strong>Penyimpanan:</strong> 60 GB ruang tersedia</li></ul>"
+  },
+  "price_initial": 56399900,
+  "price_final": 56399900,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "hollow-knight-silksong": {
+  "appid": 1030300,
+  "name": "Hollow Knight: Silksong",
+  "release_date": "4 Sep 2025",
+  "developers": [
+   "Team Cherry"
+  ],
+  "publishers": [
+   "Team Cherry"
+  ],
+  "genres": [
+   "Aksi",
+   "Petualangan",
+   "Indie"
+  ],
+  "short_description": "Discover a vast, haunted kingdom in Hollow Knight: Silksong! Explore, fight and survive as you ascend to the peak of a land ruled by silk and song.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 version 21H1 (build 19043) or newer<br></li><li><strong>Prosesor:</strong> Intel Core i3-3240, AMD FX-4300<br></li><li><strong>Memori:</strong> 4 GB RAM<br></li><li><strong>Grafis:</strong> GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)<br></li><li><strong>DirectX:</strong> Versi 10<br></li><li><strong>Penyimpanan:</strong> 8 GB ruang tersedia</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 version 21H1 (build 19043) or newer<br></li><li><strong>Prosesor:</strong> Intel Core i5-3470<br></li><li><strong>Memori:</strong> 8 GB RAM<br></li><li><strong>Grafis:</strong> GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)<br></li><li><strong>DirectX:</strong> Versi 10<br></li><li><strong>Penyimpanan:</strong> 8 GB ruang tersedia</li></ul>"
+  },
+  "price_initial": 16599900,
+  "price_final": 16599900,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "assassins-creed-shadows": {
+  "appid": 3159330,
+  "name": "Assassin’s Creed Shadows",
+  "release_date": "19 Mar 2025",
+  "developers": [
+   "Ubisoft Quebec",
+   "Ubisoft Belgrade",
+   "Ubisoft Bordeaux",
+   "Ubisoft Bucharest & Craiova",
+   "Ubisoft Chengdu",
+   "Ubisoft Montpellier",
+   "Ubisoft Montreal",
+   "Ubisoft Osaka",
+   "Ubisoft Philippines",
+   "Ubisoft Shanghai",
+   "Ubisoft Singapore",
+   "Ubisoft Sofia",
+   "Ubisoft Ukraine"
+  ],
+  "publishers": [
+   "Ubisoft"
+  ],
+  "genres": [
+   "Aksi",
+   "Petualangan",
+   "RPG"
+  ],
+  "short_description": "Experience an epic action-adventure story set in feudal Japan! Become a lethal shinobi assassin and powerful legendary samurai as you explore a beautiful open world in a time of chaos.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Prosesor:</strong> INTEL® Core TM i7 8700K AMD RYZEN 5 3600<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> NVIDIA® GEFORCE GTX 1650 4GB / AMD RX-5500 XT 8GB / INTEL® ARC TM A380 6GB (REBAR ON)&quot;<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Penyimpanan:</strong> 115 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> The game must be installed on a SSD.</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Prosesor:</strong> Intel® Core™ i5 11600k/AMD Ryzen™ 5 5600x<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> Nvidia® GeForce RTX™ 3060Ti 8GB/AMD Radeon™ RX 6700 XT 12GB/Intel® Arc™ B580 12GB (REBAR ON)<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Penyimpanan:</strong> 115 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> The game must be installed on a SSD.</li></ul>"
+  },
+  "price_initial": 79900000,
+  "price_final": 79900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "resident-evil-4": {
+  "appid": 2050650,
+  "name": "Resident Evil 4",
+  "release_date": "23 Mar 2023",
+  "developers": [
+   "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+   "CAPCOM Co., Ltd."
+  ],
+  "genres": [
+   "Aksi",
+   "Petualangan"
+  ],
+  "short_description": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 (64 bit)<br></li><li><strong>Prosesor:</strong> AMD Ryzen 3 1200 / Intel Core i5-7500<br></li><li><strong>Memori:</strong> 8 GB RAM<br></li><li><strong>Grafis:</strong> AMD Radeon RX 560 with 4GB VRAM / NVIDIA GeForce GTX 1050 Ti with 4GB VRAM<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Catatan Tambahan:</strong> Estimated performance (when set to Prioritize Performance): 1080p/45fps. ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2060 required to support ray tracing.</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 (64 bit)/Windows 11 (64 bit)<br></li><li><strong>Prosesor:</strong> AMD Ryzen 5 3600 / Intel Core i7 8700<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> AMD Radeon RX 5700 / NVIDIA GeForce GTX 1070<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Catatan Tambahan:</strong> Estimated performance: 1080p/60fps ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2070 required to support ray tracing.</li></ul>"
+  },
+  "price_initial": 51900000,
+  "price_final": 51900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "starfield": {
+  "appid": 1716740,
+  "name": "Starfield",
+  "release_date": "5 Sep 2023",
+  "developers": [
+   "Bethesda Game Studios"
+  ],
+  "publishers": [
+   "Bethesda Softworks"
+  ],
+  "genres": [
+   "RPG"
+  ],
+  "short_description": "Starfield is the first new universe in 25 years from Bethesda Game Studios, the award-winning creators of The Elder Scrolls V: Skyrim and Fallout 4.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 version 21H1 (10.0.19043)<br></li><li><strong>Prosesor:</strong> AMD Ryzen 5 2600X, Intel Core i7-6800K<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> AMD Radeon RX 5700, NVIDIA GeForce 1070 Ti<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Penyimpanan:</strong> 125 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> SSD Required</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11 with updates<br></li><li><strong>Prosesor:</strong> AMD Ryzen 5 3600X, Intel i5-10600K<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> AMD Radeon RX 6800 XT, NVIDIA GeForce RTX 2080<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Penyimpanan:</strong> 125 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> SSD Required</li></ul>"
+  },
+  "price_initial": 69900000,
+  "price_final": 69900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "a-plague-tale-requiem": {
+  "appid": 1182900,
+  "name": "A Plague Tale: Requiem",
+  "release_date": "17 Okt 2022",
+  "developers": [
+   "Asobo Studio"
+  ],
+  "publishers": [
+   "Focus Entertainment"
+  ],
+  "genres": [
+   "Aksi",
+   "Petualangan"
+  ],
+  "short_description": "Embark on a heartrending journey into a brutal, breathtaking world, and discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell with a variety of weapons, tools and unearthly powers.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 (20H1 64 bits)<br></li><li><strong>Prosesor:</strong> Intel Core i5-4690K (3.5 GHz)/AMD FX-8300 (3.3 GHz)<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> 4 GB, GeForce GTX 970/Radeon RX 590<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Penyimpanan:</strong> 55 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> 30 FPS, 1920x1080 in low. DirectX 12 Feature Level 12 and Shader Model 6.0 are needed.</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10 (20H1 64 bits)<br></li><li><strong>Prosesor:</strong> Intel Core i7-8700K (3.7 GHz) / AMD Ryzen 5 3600 (3.6 GHz)<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> 8 GB, GeForce RTX 3070/Radeon RX 6800 XT<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Penyimpanan:</strong> 55 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> 60 FPS, 1920x1080 in ultra. SSD storage is recommended.</li></ul>"
+  },
+  "price_initial": 53900000,
+  "price_final": 53900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "marvels-spider-man-2": {
+  "appid": 2651280,
+  "name": "Marvel's Spider-Man 2",
+  "release_date": "30 Jan 2025",
+  "developers": [
+   "Insomniac Games",
+   "Nixxes Software"
+  ],
+  "publishers": [
+   "PlayStation Publishing LLC"
+  ],
+  "genres": [
+   "Aksi",
+   "Petualangan"
+  ],
+  "short_description": "Be Greater. Together. The incredible power of the symbiote forces Peter Parker and Miles Morales into a desperate fight as they balance their lives, friendships, and their duty to protect in an exciting chapter of the critically acclaimed Spider-Man franchise on PC.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10/11 (version 1909 or higher)<br></li><li><strong>Prosesor:</strong> Intel Core i3-8100 or AMD Ryzen 3 3100<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> NVIDIA GeForce GTX 1650 or AMD Radeon RX 5500 XT<br></li><li><strong>Penyimpanan:</strong> 140 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> SSD Required</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows 10/11 (version 1909 or higher)<br></li><li><strong>Prosesor:</strong> Intel Core i5-8400 or AMD Ryzen 5 3600<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> NVIDIA GeForce RTX 3060 or AMD Radeon RX 5700<br></li><li><strong>Penyimpanan:</strong> 140 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> SSD Required</li></ul>"
+  },
+  "price_initial": 87900000,
+  "price_final": 87900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ },
+ "monster-hunter-wilds": {
+  "appid": 2246340,
+  "name": "Monster Hunter Wilds",
+  "release_date": "27 Feb 2025",
+  "developers": [
+   "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+   "CAPCOM Co., Ltd."
+  ],
+  "genres": [
+   "Aksi",
+   "Petualangan",
+   "RPG"
+  ],
+  "short_description": "The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next. This is a story of monsters and humans and their struggles to live in harmony in a world of duality.",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows®10 (64-bit Required)/Windows®11 (64-bit Required)<br></li><li><strong>Prosesor:</strong> Intel® Core™ i5-10400 or Intel® Core™ i3-12100 or AMD Ryzen™ 5 3600<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> NVIDIA® GeForce® GTX 1660(VRAM 6GB) or AMD Radeon™ RX 5500 XT(VRAM 8GB)<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Penyimpanan:</strong> 75 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> SSD required. This game is expected to run at 1080p (upscaled from 720 native resolution) / 30 fps under the &quot;Lowest&quot; graphics setting. DirectStorage supported.</li></ul>",
+   "recommended": "<strong>Direkomendasikan:</strong><br><ul class=\"bb_ul\"><li>Prosesor 64-bit dan OS diperlukan<br></li><li><strong>OS:</strong> Windows®10 (64-bit Required)/Windows®11 (64-bit Required)<br></li><li><strong>Prosesor:</strong> Intel® Core™ i5-10400 or Intel® Core™ i3-12100 or AMD Ryzen™ 5 3600<br></li><li><strong>Memori:</strong> 16 GB RAM<br></li><li><strong>Grafis:</strong> NVIDIA® GeForce® RTX 2060 Super(VRAM 8GB) or　AMD Radeon™  RX 6600(VRAM 8GB)<br></li><li><strong>DirectX:</strong> Versi 12<br></li><li><strong>Jaringan:</strong> Koneksi Internet Broadband<br></li><li><strong>Penyimpanan:</strong> 75 GB ruang tersedia<br></li><li><strong>Catatan Tambahan:</strong> SSD required. This game is expected to run at 1080p / 60 fps (with Frame Generation enabled) under the &quot;Medium&quot; graphics setting. DirectStorage supported.</li></ul>"
+  },
+  "price_initial": 51900000,
+  "price_final": 51900000,
+  "discount": 0,
+  "currency": "IDR",
+  "is_free": false
+ }
+}

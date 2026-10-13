@@ -1,0 +1,202 @@
+
+
+===== prd_p01.png =====
+[  49,  61] 10/13/26,12:57 PM
+[  50, 719] Web Development - Program Fast Track
+[ 171, 190] VINIX7
+[ 171, 291] FASTTRACKPROGRAM
+[ 178,1241] STATUS:
+[ 205,1259] DRAFT
+[ 242, 190] GAMEHUB - TRACKERDISKONMULT
+[ 244,1250] Versi: 1.0
+[ 281,1240] Pembaruan:
+[ 295, 188] PLATFORM.
+[ 313,1233] 2026-10-06
+[ 341, 186] Kelompok: Kelompok 2 September Intake 2 - SDG 3 (Kehidupan Sehat & Sejahtera)
+[ 345,1269] 16:08:25
+[ 366, 187] & SDG 4 (Pendidikan Berkualitas) : Dokumen ID: prd-team-1790088051479
+[ 495, 232] LATAR BELAKANG & PROBLEM STATEMENT (THE WHY)
+[ 670, 214] hingga lebih dari satu juta rupiah. Sebagai contoh, pada tahun 2020, Call of Duty: Black Ops Cold War
+[ 711, 213] memiliki harga digital mulai dari USs$59,99 untuk Standard Edition hingga US$89,99 untuk Ultimate
+[ 752, 214] Edition. Sementara itu, pada tahun 2026, Grand Theft Auto VI ditawarkan di PlayStation Store Indonesia
+[ 793, 215] dengan harga Rp1.190.000 untuk Standard Edition dan Rp1.490.000 untuk Ultimate Edition.
+[ 874, 213] Harga tersebut menjadi salah satu pertimbangan bagi pengguna dalam melakukan pembelian game
+[ 914, 214] secara legal. Berdasarkan data Badan Pusat Statistik (BPS), rata-rata upah buruh di Indonesia pada
+[ 955, 212] Februari 2026 sebesar Rp3,29 juta per bulan. Dengan kondisi tersebut, harga sebuah game yang
+[ 994, 213] mencapai lebih dari satu juta rupiah dapat menjadi pertimbangan bagi sebagian pengguna sebelum
+[1035, 215] melakukan pembelian.
+[1117, 213] Di sisi lain, informasi mengenai harga dan diskon game masih tersebar di berbagai platform dan layanan,
+[1156, 214] sehingga pengguna perlu mencari serta membandingkan informasi secara manual. Oleh karena itu,
+[1198, 214] Game Hub dikembangkan sebagai website direktori dan ensiklopedia game yang menyediakan informasi
+[1280, 214] adanya Game Hub, pengguna diharapkan dapat lebih mudah menemukan game yang dinginkan,
+[1319, 212] mengetahui informasi diskon, serta mempertimbangkan pembelian game secara legal dengan harga
+[1360, 212] yang lebih terjangkau.
+[1479, 237] TARGETPENGGUNA (USER PERSONA)
+[1572, 215] Game Hub diharapkan dapat digunakan oleh pengguna yang ingin mengikuti perkembangan permainan
+[1613, 216] digital. Website ini menyediakan informasi mengenai game, harga, dan diskon dari berbagai platform.
+[1693, 211] mereka.
+[1812, 240] SPESIFIKASIFUNGSIONAL:USER STORIES & ACCEPTANCE CRITERIA
+[1953,  59] https:/portal-scrum-kappa.vercel.app/prd.php
+[1952,1454] 1/6
+
+
+===== prd_p02.png =====
+[  50,  62] 10/13/26,12:57PM
+[  50, 718] Web Development - Program Fast Track
+[ 137, 208] No
+[ 137, 443] User Story (Kebutuhan Pengguna)
+[ 137, 885] Acceptance Criteria (DoD)
+[ 137,1263] Points
+[ 138, 293] Kategori
+[ 207, 215] 1.
+[ 207, 311] BOTH
+[ 215, 441] Sebagai user, saya ingin melihat
+[ 214, 883] 1. Sistem dapat menampilkan
+[ 254, 441] daftar game yang sedang
+[ 254, 885] daftar game yang tersedia dari
+[ 294, 440] mendapatkan diskon, sehingga
+[ 293, 885] database
+[ 336, 443] saya dapat menemukan game
+[ 336, 882] 2. Setiap game menampilkan
+[ 376, 441] dengan harga yang lebih murah.
+[ 376, 884] minimal nama game, platform,
+[ 415, 884] harga normal dan diskon,
+[ 457, 884] gambar cover, persentase
+[ 496, 884] diskon.
+[ 538, 884] 3. Harga ditampilkan dalam
+[ 578, 883] mata uang Rupiah.
+[ 618, 885] 4. Jika tidak ada data game,
+[ 659, 884] sistem menampilkan informasi
+[ 701, 885] bahwa data game belum
+[ 738, 882] tersedia.
+[ 780, 885] 5. Jika terjadi kegagalan saat
+[ 822, 886] mengambil data dari Backend,
+[ 863, 885] sistem menampilkan pesan
+[ 902, 886] error kepada user.
+[ 975, 210] 2.
+[ 977, 311] BOTH
+[ 984, 442] Sebagai user, saya ingin mencari,
+[ 984, 885] 1. Tersedia pencarian
+[1025, 440] memfilter, dan mengurutkan game,
+[1024, 885] berdasarkan nama game
+[1066, 442] sehingga saya dapat menemukan
+[1066, 885] (partial match).
+[1105, 441] game sesuai minat dan anggaran
+[1104, 883] 2. Tersedia filter genre (bisa
+[1148, 439] saya.
+[1146, 886] pilih lebih dari satu), platform,
+[1186, 885] dan rentang harga dalam
+[1228, 884] Rupiah.
+[1267, 883] 3. Tersedia urutan: harga
+[1307, 884] terendah, harga tertinggi,
+[1349, 886] diskon terbesar, dan terbaru.
+[1389, 885] 4. Semua filter dapat
+[1429, 885] dikombinasikan dan hasilnya
+[1470, 884] ter-update tanpa reload
+[1511, 885] halaman.
+[1552, 885] 5. Backend memvalidasi dan
+[1592, 885] menyanitasi semua input
+[1632, 885] pencarian dan filter.
+[1672, 885] 6. Jika hasil kosong, sistem
+[1715, 885] menampilkan pesan "Game
+[1753, 884] tidak ditemukan".
+[1953,  59] https://portal-scrum-kappa.vercel.app/prd.php
+[1951,1452] 2/6
+
+
+===== prd_p03.png =====
+[  50,  62] 10/13/26,12:57PM
+[  50, 719] Web Development - Program Fast Track
+[ 133, 207] No
+[ 134, 293] Kategori
+[ 134, 442] User Story (Kebutuhan Pengguna)
+[ 134, 884] Acceptance Criteria (DoD)
+[ 133,1264] Points
+[ 201, 213] 3.
+[ 202, 311] BOTH
+[ 208, 440] Sebagai user, saya ingin melihat
+[ 208, 884] 1. Halaman detail menampilkan
+[ 250, 442] detail game dan membandingkan
+[ 249, 883] judul, deskripsi, genre,
+[ 290, 440] harganya di beberapa platform,
+[ 290, 885] screenshot, dan spesifikasi
+[ 331, 441] sehingga saya tahu di mana harga
+[ 330, 883] sistem.
+[ 370, 440] paling murah.
+[ 370, 884] 2. Harga dari setiap platform
+[ 412, 885] ditampilkan berdampingan
+[ 454, 885] lengkap dengan harga normal,
+[ 492, 883] harga diskon, dan persentase
+[ 533, 885] diskon dalam Rupiah.
+[ 573, 884] 3. Platform dengan harga
+[ 614, 886] termurah ditandai secara
+[ 653, 884] visual.
+[ 694, 885] 4. Data diambil dari database
+[ 736, 886] melalui APl Backend, bukan
+[ 778, 885] Ilangsung dari APl eksternal.
+[ 816, 885] 5. Jika game tidak ditemukan,
+[ 857, 883] sistem menampilkan halaman
+[ 897, 884] "Game tidak ditemukan".
+[ 973, 214] 4.
+[ 973, 311] BOTH
+[ 981, 441] Sebagai user, saya ingin melihat
+[ 980, 886] 1. Halaman detail menampilkan
+[1019, 440] riwayat harga sebuah game,
+[1019, 885] grafik harga 6 bulan terakhir
+[1060, 441] sehingga saya tahu apakah harga
+[1059, 886] dengan garis warna berbeda
+[1101, 442] saat ini sudah termasuk murah.
+[1101, 884] per platform.
+[1143, 885] 2. Tooltip menampilkan tanggal
+[1182, 885] dan harga dalam Rupiah saat
+[1222, 884] grafik di-hover.
+[1263, 886] 3. Sistem menampilkan label
+[1303, 887] "Harga Terendah dalam 6
+[1344, 885] Bulan" jika harga saat ini ≤
+[1385, 885] harga minimum 6 bulan
+[1425, 885] terakhir.
+[1467, 885] 4. Data riwayat dan
+[1506, 885] perhitungan harga terendah
+[1546, 888] diproses di Backend dari
+[1588, 885] database.
+[1628, 886] 5. Jika data riwayat belum
+[1667, 884] tersedia, sistem menampilkan
+[1710, 884] pesan bahwa riwayat harga
+[1750, 884] belum tersedia.
+[1953,  59] https://portal-scrum-kappa.vercel.app/prd.php
+[1952,1454] 3/6
+
+
+===== prd_p04.png =====
+[  50,  61] 10/13/26,12:57PM
+[  51, 719] WebDevelopment-ProgramFastTrack
+[1953,  59] https://portal-scrum-kappa.vercel.app/prd.php
+[1952,1453] 4/6
+
+
+===== prd_p05.png =====
+[  50,  62] 10/13/26,12:57PM
+[  50, 718] Web Development - Program Fast Track
+[1662, 239] CATATAN ARSITEKTUR & KONTRAK API (FE-BE SYNC)
+[1753, 212] Arsitektur sistem :
+[1795, 213] Aplikasi menggunkana arsitektur Backend-Mediated ApI : Frontend tidak mengakses API
+[1835, 212] Melainkan Backend berfungsi sebagai perantara untuk mengambil data dari ApI external
+[1953,  60] https://portal-scrum-kappa.vercel.app/prd.php
+[1952,1454] 5/6 
+
+
+===== prd_p06.png =====
+[  50,  61] 10/13/26,12:57PM
+[  51, 719] WebDevelopment-ProgramFastTrack
+[ 120, 212] Alur 
+[ 162, 213] Laravel BE Fetch data game dari STEAM/EpicGames
+[ 242, 214] Kontrak API :
+[ 283, 212] Frontend berkomunikasi dengan Backend melalui REsT API Laravel menggunakan format Js
+[ 458, 224] CATATAN&MASUKANDARIGURUIINSTRUKTUR
+[ 504, 223] Belum ada catatan masukan dari instruktur.
+[ 682, 298] Disusun Oleh Perwakilan Siswa:
+[ 683, 914] Disetujui Oleh Guru / Instruktur:
+[ 816, 367] (Ketua Kelompok)
+[ 816, 968] (Guru Pendamping)
+[1954,  59] https://portal-scrum-kappa.vercel.app/prd.php
+[1953,1454] 6/6

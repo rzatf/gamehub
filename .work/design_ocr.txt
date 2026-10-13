@@ -1,0 +1,352 @@
+
+
+===== des_p01.png =====
+[  56,  63] GameHub
+[  60, 417] Cari..
+[  58,1155] Katalog
+[  58,1308] Favorite
+[ 243,  37] Cari
+[ 247, 183] Game
+[ 252, 407] yang
+[ 246, 598] Kamu Mau.
+[ 326,  37] Cek Harganya.
+[ 400,  38] Temukan
+[ 399, 369] Deal Terbaik.
+[ 449,  34] Lagi cari game? Cek harga dan diskonnya dari berbagaiplatform di sini
+[ 558,  70] JelajahiGame
+[ 557, 383] Lihat Promo
+[ 690,  38] SaleEvents
+[ 834, 481] STEAM
+[ 898, 451] AUTUMN
+[ 988, 446] SALE
+[1063, 480] ONNOWTHRUOCT8ATIOAMPT
+[1182,  35] Steam
+[1380,  48] BATTLEFIELD6
+[1443, 443] DETROIT
+[1474, 425] BECOME
+[1473, 560] HUMAN
+[1481, 750] SEKIRO
+[1517, 749] SHADOWSDIETWICE
+[1596,1122] RED DEAD
+[1639, 234]  50%
+[1640, 586]  50%
+[1640, 942] 50%
+[1639,1124] REDEMPT50%
+[1697, 730] SekiroTM: Shado..
+[1699,  35] Battlefield 6
+[1700, 385] Detroit: Becom..
+[1699,1089] Red Dead Rede..
+[1741,  32] Rp1,251,888
+[1741, 382] Rp1,251,888
+[1741, 736] Rp1,251,888
+[1741,1089] Rp1,073,021
+[1783,  33] Rp625,854
+[1782, 384] Rp625,854
+[1782, 738] Rp625,854
+[1783,1089] Rp268,121
+[1821,  37] ★6.8
+[1821, 388] ★8.7
+[1821, 741] ★8.9
+[1821,1093] ★9.0
+[1861,  41] FPS
+[1861,  89] Action
+[1862, 391] Adventure
+[1862, 486] Interactive
+[1861, 743] Action
+[1861, 811] Open World
+[1861,1094] Action
+[1862,1158] Open World
+[1953,1297] More...
+[2020,  40] Epic Games Store
+[2230,  52] BATTLEFIELD6
+[2286, 450] DETROIT
+[2316, 431] BECOME
+[2316, 563] HUMAN
+[2330, 744] SEKIRO
+[2367, 756] SHADOWSDIETWICE
+[2447,1126] REDDEAD
+[2488, 214] ERIC
+[2489,1125] REDEMPTC50%
+[2490, 242] 50%
+[2490, 595] 50%
+[2490, 943] 50%
+[2549,  41] Battlefield 6
+[2548, 734] SekiroTM: Shado.
+[2550,1093] Red Dead Rede..
+[2550, 390] Detroit: Becom..
+[2592,  38] Rp1,251,888
+[2592, 389] Rp1,251,888
+[2592, 740] Rp1,251,888
+[2592,1092] Rp1,073,021
+[2633,  39] Rp625,854
+[2633, 742] Rp625,854
+[2634, 390] Rp625,854
+[2634,1093] Rp268,121
+[2672,  42] ★6.8
+[2672, 392] ★8.7
+[2672, 744] ★8.9
+[2672,1095] ★9.0
+[2712,  46] FPS
+[2713,  95] Action
+[2713, 396] Adventure
+[2713, 490] Interactive
+[2713, 749] Action
+[2712, 816] Open World
+[2713,1099] Action
+[2712,1162] Open World
+[2803,1297] More...
+[2987, 104] harga referensi dan mengarahkan pengguna ke platform resmi untukpembelian.
+[3027, 106] Game Hub tidak berafiliasi dengan Steam/Valve, Epic Games, GOG, atau publisher terkait. Harga bersifat referensi; harga final & proses pembayaran
+[3048, 106] mengacukeplatformresmisaatcheckout.
+
+
+===== des_p02.png =====
+[1664, 177] RED DEAD
+[1842, 186] REDEMPTION
+[2270,  58] Red Dead Rede
+[2485,  60] Rp1,073,021
+[2485,1109] 50%
+[2692,  50] Rp268,121
+[2878, 162] 9.0
+[3081, 100] Action
+[3082, 418] Open World
+
+
+===== des_p03.png =====
+[  84,  93] GameHub
+[  87, 604] Cari...
+[  84,1670] Katalog
+[  83,1895] Favorite
+[ 287,1861] Terbaru
+[ 296,  52] Katalog Game
+[ 453,  46] Filters
+[ 524,  48] Shops
+[ 619,  50] Steam
+[ 627, 571] BATTLEFIELD6
+[ 699,  49] Epic
+[ 779,  50] GOG
+[ 792,1606] SEKIRO
+[ 838,1601] SHADOWSDIETWI
+[ 919,  52] Genre
+[ 940,1114] RED DEAD
+[1000,1116] REDEMPTION
+[1014,  52] Action
+[1086,1578] SekiroTM: Shado.
+[1096,  48] Rpg
+[1088, 554] Battlefield 6
+[1088,1070] Red Dead Rede...
+[1150, 551] Rp1,251,888
+[1154, 918] 50%
+[1149,1069] Rp1,073,021
+[1155,1430] 50%
+[1150,1587] Rp1,251,888
+[1153,1953] 50%
+[1175,  53] Adventure
+[1210, 552] Rp625,854
+[1210,1071] Rp268,121
+[1209,1588] Rp625,854
+[1252,  51] Strategy
+[1264, 554] ★6.8
+[1264,1073] ★9.0
+[1264,1590] ★8.9
+[1324, 563] FPS
+[1323, 633] Action
+[1323,1078] Action
+[1322,1170] Open World
+[1323,1599] Action
+[1323,1697] Open World
+[1329,  52] Simulation
+[1410,  49] Racing
+[1472,1660] EPIC
+[1490,  47] Sports
+[1568,  46] Indie
+[1597,1611] BATTLEFIELD6
+[1628, 571] BATTLEFIELD6
+[1937,1115] RED DEAD
+[1998,1114] REDEMPTION
+[2088, 554] Battlefield 6
+[2085,1071] Red Dead Rede...
+[2090,1580] SekiroTM: Shado..
+[2151, 550] Rp1,251,888
+[2151, 916] 50%
+[2147,1070] Rp1,073,021
+[2153,1433] 50%
+[2155,1592] Rp1,251,888
+[2159,1952] 50%
+[2212, 552] Rp625,854
+[2208,1070] Rp268,121
+[2207,1591] Rp625,854
+[2261,1073] ★9.0
+[2262,1594] ★ 8.9
+[2266, 554] ★6.8
+[2320,1078] Action
+[2320,1171] Open World
+[2321,1603] Action
+[2320,1699] Open World
+[2325, 564] FPS
+[2324, 632] Action
+[2910, 154] Game Hub adalah direktori & tracker diskon game non-komersial. Kami bukan reseller dan tidak menjual game - kami hanya menampilkan informasi
+[2996, 154] Game Hub tidak berafiliasi dengan Steam/Valve, Epic Games, GOG, atau publisher terkait. Harga bersifat referensi; harga final & proses pembayaran
+[3026, 153] mengacu ke platform resmi saat checkout.
+
+
+===== des_p04.png =====
+[ 524, 291] Terlaris
+[1088, 307] Diskon
+[1117,1081] n Tertinggi
+[1668,1015] a Terendah
+[1696, 289] Harga
+[2248, 295] Terbaru
+
+
+===== des_p05.png =====
+[ 211,  77] Banner ketika di klik
+[ 502,  70] diarahkan ke
+[ 796,  88] halaman steam s
+[ 795,2084] sale
+
+
+===== des_p06.png =====
+[  84,  94] GameHub
+[  87, 604] battlefield
+[  85,1670] Katalog
+[  84,1895] Favorite
+[ 293,  54] Hasil Pencarian
+[ 345,  56] Ditemukan 1hasil untuk“battlefield'
+[ 626,  86] BATTLEFIELD6
+[1087,  75] Battlefield 6
+[1150,  71] Rp1,251,888
+[1150, 439] 50%
+[1210,  71] Rp625,854
+[1263,  72] ★6.8
+[1324,  81] FPS
+[1324, 150] Action
+[2909, 153] Game Hub adalah direktori & tracker diskon game non-komersial. Kami bukan reseller dan tidak menjual game - kami hanya menampilkan informasi
+[2938, 152] harga referensi dan mengarahkan pengguna ke platform resmi untuk pembelian.
+[2996, 154] Game Hub tidak berafiliasi dengan Steam/Valve, Epic Games, GOG, atau publisher terkait. Harga bersifat referensi; harga final & proses pembayaran
+[3026, 153] mengacu ke platform resmi saat checkout.
+
+
+===== des_p07.png =====
+[ 122, 156] Back
+[ 214,  75] Red Dead Redemption Il
+[ 326,1361] Harga per platform
+[ 370,1656] 75%
+[ 433, 106] RDCKSTARGAMESPRESENTS
+[ 433,1335] Steam
+[ 434,1561] Rp1.073.021
+[ 470,1470] Rp 268.256
+[ 488, 106] RED DEAD
+[ 568, 106] REDEMPTION
+[ 560,1645] 50%
+[ 615,1283] EPIC
+[ 623,1336] Epic
+[ 621,1551] Rp1.073.021
+[ 633,1283] GAMES
+[ 661,1458] Rp 446.988
+[1395,  95] Tentang Game ini
+[1443,  93] Red Dead Redemption 2 adalah permainan video aksi-penjelajahan (action-adventure) berlatar dunia terbuka (open-world) yang
+[1474,  94] dikembangkan dan diterbitkan oleh Rockstar Games. Dirilis pada tahun 2oi8, game ini merupakan prekuel dari Red Dead
+[1505,  97] Redemption (2010).
+[1587,  95] Persyaratan Sistem
+[1645, 108] . Minimum:
+[1645, 891] Direkomendasikan:
+[1675, 139] Prosesor64-bitdanOsdiperlukan
+[1675, 926] Prosesor64-bitdanOsdiperlukan
+[1706, 137] : OS: Windows 10 - 64-bit
+[1706, 915] OS: Windows 10 - 64-bit
+[1736, 136] :Prosesor:Intel?CoreTM i5-2500K/AMDFX-6300
+[1736, 909] : Prosesor: Intel? CoreTM i7-4770K / AMD Ryzen 5 1500X
+[1767, 137] :Memori:8GB RAM
+[1767, 913] Memori:12 GB RAM
+[1798, 142] Grafis:NvidiaGeForceGTX7702GB/AMDRadeonR92803GB
+[1797, 913] Grafis:NvidiaGeForceGTX10606GB/AMDRadeonRX4804GB
+[1829, 137] :Jaringan: Koneksi Internet Broadband
+[1828, 911] :Jaringan:Koneksi internet Broadband
+[1860, 137] :Penyimpanan:150 GB ruang tersedia
+[1860, 914] Penyimpanan:150GBruangtersedia
+[1891, 137] :Kartu suara: Direct X Compatible
+[1891, 914] Kartu suara:DirectX Compatible
+[2115, 154] Riwayat harga & diskon
+[2121,1528] Steam
+[2207, 189] 2000000
+[2271, 192] 1600000
+[2333, 193] 1200000
+[2339, 350] 1073021
+[2340, 583] 1073021
+[2339, 813] 1073021
+[2339,1043] 1073021
+[2340,1274] 1073021
+[2340,1504] 1073021
+[2398, 198] 800000
+[2409, 583] 640000
+[2407,1274] 640000
+[2426, 815] 536510
+[2425,1508] 536510
+[2462, 198] 400000
+[2468, 357] 268121
+[2468,1046] 268121
+[2511, 372] 75
+[2511, 830] 50
+[2511,1064] 75
+[2511,1522] 50
+[2526, 247] 00
+[2547, 248] Mei
+[2548, 525] Jun
+[2547, 804] inr
+[2549,1079] Agt
+[2548,1353] Sep
+[2547,1633] Ok
+[2601, 655] O-HargaNormal (Rp)
+[2602, 828] -O- Harga Akhir (Rp)
+[2602, 998] -O-PersentaseDiskon(%)
+[2902, 137] Game Hub adalah direktori & tracker diskon game non-komersial. Kami bukan reseller dan tidak menjual game - kami hanya menampilkan informasi
+[2927, 136] harga referensi dan mengarahkan pengguna ke platform resmi untuk pembelian.
+[2978, 137] Game Hub tidak berafiliasi dengan Steam/Valve, Epic Games, GOG, atau publisher terkait. Harga bersifat referensi; harga final & proses pembayaran
+[3005, 137] mengacu ke platform resmi saat checkout.
+
+
+===== des_p08.png =====
+[ 523, 290] Steam
+[1102, 823]  Games
+[1123, 289] Epic
+[1668, 309] GOG
+
+
+===== des_p09.png =====
+[  84,  93] GameHub
+[  87, 605] Cari..
+[  84,1669] Katalog
+[  84,1894] Favorite
+[ 339,  29] Favorit Saya (3)
+[ 646,  75] BATTLEFIELD6
+[ 746, 621] DETROIT
+[ 784, 599] BEC
+[ 784, 669] OME
+[ 783, 764] HUMA
+[ 793,1051] SEKIRO
+[ 837,1042] SHADOWSDIETWICE
+[1107,  64] Battlefield 6
+[1106, 549] Detroit: Becom..
+[1104,1029] SekiroTM: Shado..
+[1169,  61] Rp1,251,888
+[1168, 358] 50%
+[1168, 546] Rp715,288
+[1166, 845] 50%
+[1169,1036] Rp1,073,021
+[1168,1333] 50%
+[1229,  62] Rp625,854
+[1229, 549] Rp71,367
+[1230,1038] Rp536,421
+[1284,  62] ★ 6.8
+[1283, 548] ★ 8.7
+[1284,1038] ★ 8.9
+[1342,  73] FPS
+[1343, 141] Action
+[1342, 559] Advanture
+[1343, 685] interactiveDrama
+[1343,1046] Action
+[1343,1135] Adventure
+[2910, 154] Game Hub adalah direktori & tracker diskon game non-komersial. Kami bukan reseller dan tidak menjual game - kami hanya menampilkan informasi
+[2996, 155] Game Hub tidak berafiliasi dengan Steam/Valve, Epic Games, GOG, atau publisher terkait. Harga bersifat referensi; harga final & proses pembayaran
+[3026, 153] mengacu ke platform resmi saat checkout.
