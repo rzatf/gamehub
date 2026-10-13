@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+/*
+ * Game Hub — dark theme tokens.
+ * Values sampled from the supplied design (dark navy surfaces, lime "deal"
+ * price accent, red discount badges, gold ratings).
+ */
+@theme inline {
+  --color-abyss: #000d19;        /* page background            */
+  --color-deep: #000a11;         /* navbar / dropdown surface  */
+  --color-surface: #002038;      /* cards                      */
+  --color-panel: #01121f;        /* filter panel               */
+  --color-field: #00192b;        /* inputs                     */
+  --color-hairline: #0e2a45;     /* borders / dividers         */
+  --color-brand: #006fbf;        /* primary button             */
+  --color-brand-bright: #0094ff; /* hero accent / links        */
+  --color-lime: #a3e634;         /* final price / brand mark   */
+  --color-danger: #e63434;       /* discount badge             */
+  --color-gold: #ffcc00;         /* rating star                */
+  --color-muted: #b8bfc6;        /* secondary text             */
+  --color-muted-deep: #334c5f;   /* genre pills, faint text    */
+  --color-chart-normal: #706ee6;
+  --color-chart-final: #54c4ad;
+  --color-chart-discount: #ff9189;
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html {
+  color-scheme: dark;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-abyss);
+  color: #ffffff;
+  font-family: var(--font-sans), system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Dark-shell scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-muted-deep) transparent;
+}
+*::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--color-muted-deep);
+  border-radius: 9999px;
+}
+
+/* Horizontal carousels: scrollable but with the scrollbar hidden. */
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hero-gradient-text {
+  background: linear-gradient(96deg, #0094ff 0%, #7fc4ff 42%, #ffffff 78%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@keyframes gh-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fade-up {
+  animation: gh-fade-up 0.28s ease-out both;
+}
+
+@keyframes gh-shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background: var(--color-surface);
+}
+.skeleton::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.05), transparent);
+  animation: gh-shimmer 1.4s infinite;
+}
