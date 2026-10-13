@@ -49,7 +49,7 @@ selalu *same-origin*: tanpa CORS dan host API tidak bocor ke bundle client.
 | Variabel | Default | Keterangan |
 | --- | --- | --- |
 | `API_URL` | `http://127.0.0.1:8000` | Alamat backend untuk rewrite `/api/*` |
-| `PORT` | `3000` | Port dev/start Next.js |
+| `PORT` | `3004` | Port dev/start Next.js |
 
 > Port 3000 pada mesin ini dipakai aplikasi lain; jalankan dengan `npm run dev -- -p 4321`
 > (atau `PORT=4321`) bila bentrok.
